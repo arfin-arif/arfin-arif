@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arfin Arif</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
-🔭 I’m currently working on my personal projects<be><br>💬 Ask me about anything related to frontend development<br><br>📫 How to reach me contact@arfinarif.com
+
+🔭 I’m currently working on my personal projects<be><br>📫 How to reach me contact@arfinarif.com
 
 
 ## 🌐 Socials:
